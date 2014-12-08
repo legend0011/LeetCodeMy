@@ -1,0 +1,1 @@
+this is the solutions I figured out for leetcode OJ.

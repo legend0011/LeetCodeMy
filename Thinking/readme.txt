@@ -1,0 +1,1 @@
+This is some thoughts of solving those problems in leetcode OJ.
